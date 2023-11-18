@@ -1,5 +1,5 @@
-**Hotel Booking End-to-End Project
-**\n
+Hotel Booking End-to-End Project - 
+
 Welcome to the Hotel Booking End-to-End Project repository! This project offers a complete solution for managing hotel bookings, covering various functionalities from guest reservations to check-out.
 
 Overview
